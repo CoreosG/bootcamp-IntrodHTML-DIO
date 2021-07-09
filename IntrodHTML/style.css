@@ -1,3 +1,15 @@
+/* margin: espaçamento entre elementos
+   bordas: circundam o padding e o conteúdo e é possível alterar sua aparência
+   padding: espaçamento entre a borda e o conteúdo
+   conteúdo: conteúdo -' 
+*/
+
+
+body{
+    background: grey;
+}
+
+
 #title, .subtitle, .post_title {
     color: blue;
 }
@@ -5,4 +17,11 @@
 .post_title {
     font-size: 16px;
     font-style: italic;
+}
+
+.post {
+    background: #FFF;
+    padding: 10px;
+    border: 3px solid #0000;
+    margin: 10px;
 }
