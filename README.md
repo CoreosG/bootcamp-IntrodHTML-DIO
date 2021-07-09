@@ -8,3 +8,4 @@ Este bootcamp foi realizado através da plataforma
 Lista de conteúdos:
  1. Introdução ao GIT
  2. Introdução ao HTML5 e CSS3
+ 3. Recriação de uma página do instagram
